@@ -17,5 +17,3 @@ https://docs.github.com/en/actions/automating-builds-and-tests/building-and-test
 1. Java 8 https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
 2. Eclipse / IntelliJ / Alat po izboru
 3. Docker https://www.docker.com/products/docker-desktop
-
-Testing testOnPullRequest.yml
